@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcel</h1>
--🔭 I’m currently working on an ai for chess
+-🔭 I’m currently working on an ai for chess and spying system
 
 -🌱 I’m currently learning **neural networks**
 
