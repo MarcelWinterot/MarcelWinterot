@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcel</h1>
--🔭 I’m currently working on a chess engine and a google drive built with socket communication
+-🔭 I’m currently working on a physics engine for simulating the two-body problem
 
--🌱 I’m currently learning **neural networks**
+-🌱 I’m currently learning c and astro physics
 
 
 <h3 align="left">Languages and Tools:</h3>
