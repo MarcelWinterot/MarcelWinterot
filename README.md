@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcel</h1>
--🔭 I’m currently working on a physics engine for simulating the two-body problem
+-🔭 I’m currently working on a python ML library and some RL projects
 
--🌱 I’m currently learning c and astro physics
+-🌱 I’m currently learning reinforced learning
 
 
 <h3 align="left">Languages and Tools:</h3>
