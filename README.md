@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcel</h1>
--🔭 I’m currently working on a python ML library
+-🔭 I’m currently working on nano-keras, a python compact implementation of keras
 
--🌱 I’m currently learning machine learning
+-🌱 I’m currently learning machine learning and rust
 
 
 <h3 align="left">Languages and Tools:</h3>
