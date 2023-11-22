@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcel</h1>
--🔭 I’m currently working on nano-keras, a python compact implementation of keras
+-🔭 I’m currently working on <a href=https://github.com/MarcelWinterot/nano-keras/>nano-keras</a>, a python compact implementation of keras
 
 -🌱 I’m currently learning machine learning and rust
 
