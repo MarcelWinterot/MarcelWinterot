@@ -41,8 +41,12 @@
       <td><b>Deep learning library made in Python in the style of Keras</b></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MarcelWinterot/PyTorch-Projects/"><b>Lots of PyTorch projects</b></a></td>
-      <td><b>Lots of neural networks created with PyTorch</b></td>
+      <td><a href="https://github.com/MarcelWinterot/PyTorch-Projects/"><b>PyTorch projects</b></a></td>
+      <td><b>A few neural networks made using PyTorch</b></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MarcelWinterot/WSDM-2021"><b>WSDM 2021</b></a></td>
+      <td><b>My attempt at wsdm 2021 competition</b></td>
     </tr>
   </tbody>
 </table>
