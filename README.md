@@ -48,6 +48,10 @@
       <td><a href="https://github.com/MarcelWinterot/WSDM-2021"><b>WSDM 2021</b></a></td>
       <td><b>My attempt at wsdm 2021 competition</b></td>
     </tr>
+      <tr>
+      <td><a href="https://github.com/MarcelWinterot/Stock-Market-Predictions"><b>Stock Market Predictions</b></a></td>
+      <td><b>Predicting stock market using neural networks</b></td>
+    </tr>
   </tbody>
 </table>
 <h3>Where to find me</h3>
